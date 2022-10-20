@@ -1,4 +1,4 @@
-### Hi!
+# Hi!
 I'm Casper Schuijt, a free-time Ruby/Rails enjoyer now looking to take my code to the next level in [Codam](https://codam.nl)/[42](https://42network.org).
 
 ## My own stuff

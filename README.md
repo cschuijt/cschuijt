@@ -1,5 +1,5 @@
 # Hi!
-I'm Casper Schuijt, a free-time Ruby/Rails enjoyer now looking to take my code to the next level in [Codam](https://codam.nl)/[42](https://42network.org).
+I'm Casper Schuijt, a free-time Ruby/Rails enthusiast now looking to take my code to the next level in [Codam](https://codam.nl)/[42](https://42network.org).
 
 ## My own stuff
 * __[💎 Dotagem](https://github.com/dotagem/dotagem)__, a Telegram bot running on Rails that allows users to link their Steam and Telegram accounts together, letting them display match and profile data in any chat.

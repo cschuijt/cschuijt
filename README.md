@@ -4,6 +4,8 @@ I'm Casper Schuijt, a free-time Ruby/Rails enthusiast now looking to take my cod
 ## My own stuff
 * __[💎 Dotagem](https://github.com/dotagem/dotagem)__, a Telegram bot running on Rails that allows users to link their Steam and Telegram accounts together, letting them display match and profile data in any chat.
 
+A complete overview of my work should be on my [website](https://cschuijt.nl).
+
 ## My 42 curriculum stuff
 These are the repositories for projects done at Codam.
 

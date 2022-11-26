@@ -16,20 +16,20 @@ A complete overview of my work should be on my [website](https://cschuijt.nl).
 ### Rank 0
 | Project | Grade | Description |
 | ------- | ----- | ----------- |
-| [**libft**](https://github.com/cschuijt/libft) | [![cschuijt's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2818084)](https://github.com/cschuijt/libft) | A library of functions and utilities, largely replicating standard C library behavior, for use in future projects. |
+| [**libft**](https://github.com/cschuijt/libft) | [![125/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2818084)](https://github.com/cschuijt/libft) | A library of functions and utilities, largely replicating standard C library behavior, for use in future projects. |
 
 ### Rank 1
 | Project | Grade | Description |
 | ------- | ----- | ----------- |
-| [**ft_printf**](https://github.com/cschuijt/ft_printf) | [![cschuijt's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2843914)](https://github.com/cschuijt/ft_printf) | Exploring variadic functions by writing a lean mean version of the standard `printf` function. |
-| [**get_next_line**](https://github.com/cschuijt/get_next_line) | [![cschuijt's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2843915)](https://github.com/cschuijt/get_next_line) | A function which, when called multiple times, returns the next line from the given file descriptor, at any given buffer size. |
-| [**Born2beroot**](https://github.com/cschuijt/born2beroot) | [![cschuijt's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2843913)](https://github.com/cschuijt/born2beroot) | Setting up a server in a virtual machine following strict rules. This repo contains my monitoring shell script for this project. |
+| [**ft_printf**](https://github.com/cschuijt/ft_printf) | [![100/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2843914)](https://github.com/cschuijt/ft_printf) | Exploring variadic functions by writing a lean mean version of the standard `printf` function. |
+| [**get_next_line**](https://github.com/cschuijt/get_next_line) | [![100/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2843915)](https://github.com/cschuijt/get_next_line) | A function which, when called multiple times, returns the next line from the given file descriptor, at any given buffer size. |
+| [**Born2beroot**](https://github.com/cschuijt/born2beroot) | [![100/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2843913)](https://github.com/cschuijt/born2beroot) | Setting up a server in a virtual machine following strict rules. This repo contains my monitoring shell script for this project. |
 
 ### Rank 2
 | Project | Grade | Description |
 | ------- | ----- | ----------- |
-| **push_swap** | [![cschuijt's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2871742)](https://github.com/cschuijt/push_swap) | Implementing a sorting algorithm to sort through a stack of integers using a specific set of actions, in the lowest amount of moves possible. |
-| [**so_long**](https://github.com/cschuijt/so_long) | [![cschuijt's 42 so_long Score](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2875393)](https://github.com/cschuijt/so_long) | Part of the first set of graphics projects, the goal is to write a small 2D game using the minimalistic MLX library. |
-| **pipex** | [![cschuijt's 42 pipex Score](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2875314)](https://github.com/cschuijt/pipex) | A program that is supposed to replicate shell piping behavior, as an introduction to pipes and redirection. |
+| **push_swap** | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2871742)](https://github.com/cschuijt/push_swap) | Implementing a sorting algorithm to sort through a stack of integers using a specific set of actions, in the lowest amount of moves possible. |
+| [**so_long**](https://github.com/cschuijt/so_long) | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2875393)](https://github.com/cschuijt/so_long) | Part of the first set of graphics projects, the goal is to write a small 2D game using the minimalistic MLX library. |
+| **pipex** | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2875314)](https://github.com/cschuijt/pipex) | A program that is supposed to replicate shell piping behavior, as an introduction to pipes and redirection. |
 
 </details>

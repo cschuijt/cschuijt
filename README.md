@@ -29,7 +29,7 @@ A complete overview of my work should be on my [website](https://cschuijt.nl).
 | Project | Grade | Description |
 | ------- | ----- | ----------- |
 | **push_swap** | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2871742)](https://github.com/cschuijt/push_swap) | Implementing a sorting algorithm to sort through a stack of integers using a specific set of actions, in the lowest amount of moves possible. |
-| [**so_long**](https://github.com/cschuijt/so_long) | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2875393)](https://github.com/cschuijt/so_long) | Part of the first set of graphics projects, the goal is to write a small 2D game using the minimalistic MLX library. |
+| [**so_long**](https://github.com/cschuijt/so_long) | [![125/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2875393)](https://github.com/cschuijt/so_long) | Part of the first set of graphics projects, the goal is to write a small 2D game using the minimalistic MLX library. |
 | **pipex** | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2875314)](https://github.com/cschuijt/pipex) | A program that is supposed to replicate shell piping behavior, as an introduction to pipes and redirection. |
 
 </details>

@@ -28,8 +28,14 @@ A complete overview of my work should be on my [website](https://cschuijt.nl).
 ### Rank 2
 | Project | Grade | Description |
 | ------- | ----- | ----------- |
-| **push_swap** | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2871742)](https://github.com/cschuijt/push_swap) | Implementing a sorting algorithm to sort through a stack of integers using a specific set of actions, in the lowest amount of moves possible. |
+| [**push_swap**](https://github.com/cschuijt/push_swap) | [![125/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2871742)](https://github.com/cschuijt/push_swap) | Implementing a sorting algorithm to sort through a stack of integers using a specific set of actions, in the lowest amount of moves possible. |
 | [**so_long**](https://github.com/cschuijt/so_long) | [![125/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2875393)](https://github.com/cschuijt/so_long) | Part of the first set of graphics projects, the goal is to write a small 2D game using the minimalistic MLX library. |
-| **pipex** | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2875314)](https://github.com/cschuijt/pipex) | A program that is supposed to replicate shell piping behavior, as an introduction to pipes and redirection. |
+| [**minitalk**](https://github.com/cschuijt/minitalk) | [![106/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2955520)](https://github.com/cschuijt/minitalk) | A client and server program that should be able to transmit strings using UNIX signals. |
+
+### Rank 3
+| Project | Grade | Description |
+| ------- | ----- | ----------- |
+| [**minishell**](https://github.com/cschuijt/minishell) | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2981263)](https://github.com/cschuijt/minishell) | A basic shell featuring environment variables, pipes, redirection and builtins. Team project with [codingfrog27](https://github.com/codingfrog27) |
+| [**Philosophers**](https://github.com/cschuijt/philo) | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/3025643)](https://github.com/cschuijt/philo) | A program recreating the dining philosophers problem as an introduction to threads and mutexes. |
 
 </details>

@@ -35,7 +35,7 @@ A complete overview of my work should be on my [website](https://cschuijt.nl).
 ### Rank 3
 | Project | Grade | Description |
 | ------- | ----- | ----------- |
-| [**minishell**](https://github.com/cschuijt/minishell) | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2981263)](https://github.com/cschuijt/minishell) | A basic shell featuring environment variables, pipes, redirection and builtins. Team project with [codingfrog27](https://github.com/codingfrog27) |
-| [**Philosophers**](https://github.com/cschuijt/philo) | [![Subscribed](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/3025643)](https://github.com/cschuijt/philo) | A program recreating the dining philosophers problem as an introduction to threads and mutexes. |
+| [**minishell**](https://github.com/cschuijt/minishell) | [![97/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/2981263)](https://github.com/cschuijt/minishell) | A basic shell featuring environment variables, pipes, redirection and builtins. Team project with [codingfrog27](https://github.com/codingfrog27) |
+| [**Philosophers**](https://github.com/cschuijt/philo) | [![100/100](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/project/3025643)](https://github.com/cschuijt/philo) | A program recreating the dining philosophers problem as an introduction to threads and mutexes. |
 
 </details>

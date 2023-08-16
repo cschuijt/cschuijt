@@ -4,7 +4,10 @@ I'm Casper Schuijt, a free-time Ruby/Rails enthusiast now looking to take my cod
 ## My own stuff
 * __[💎 Dotagem](https://github.com/dotagem/dotagem)__, a Telegram bot running on Rails that allows users to link their Steam and Telegram accounts together, letting them display Dota 2 match and profile data in any chat.
 
-A complete overview of my work should be on my [website](https://cschuijt.nl).
+### I am currently working on...
+* Building the backend for an app to run and manage competitions and tournaments (Rails, JSON:API, Docker)
+* C++ modules in the 42 curriculum
+* 3D rendering and building my own raytracer from scratch
 
 ## My 42 curriculum stuff
 

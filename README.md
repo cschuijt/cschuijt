@@ -2,8 +2,8 @@
 I'm Casper, a free-time Ruby/Rails enthusiast now looking to take my code to the next level in [Codam](https://codam.nl)/[42](https://42network.org).
 
 ## What I'm up to
-💻 I am working my way through the core curriculum in Codam, currently focusing on C++ and ray tracing.
-🏆 I am almost always working on at least one side project to broaden my skillset. Most recently, I worked on setting up a robust, anonymous voting system for the student council, and on moving my infrastructure from plain Docker/Caprover to Kubernetes.
+💻 I am working my way through the core curriculum in Codam, currently focusing on C++ and ray tracing.  
+🏆 I am almost always working on at least one side project to broaden my skillset. Most recently, I worked on setting up a robust, anonymous voting system for the student council, and on moving my infrastructure from plain Docker/Caprover to Kubernetes.  
 🔍 I am looking for part-time work! Backend and systems programming are my forte, but I'm a fast learner.
 
 ## What I've done

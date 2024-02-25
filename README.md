@@ -8,7 +8,7 @@ I'm Casper, a free-time Ruby/Rails enthusiast now looking to take my code to the
 
 ## What I've done
 🤝 I have been on the Codam Student Council for a year.
-📚️ Before Codam, I studied law, with a focus on administrative and European law. Public administration remains an interest of mine.  
+📚️ Before Codam, I studied law, with a focus on administrative and European law. Public administration remains an interest of mine.    
 💎 I built __[Dotagem](https://github.com/dotagem/dotagem)__, a Telegram bot that allows users to link their Steam and Telegram accounts together, letting them display Dota 2 match and profile data in any chat.
 🛠️ In the 42 curriculum, I have built my own [2D game](https://github.com/cschuijt42/so_long) and a [shell](https://github.com/cschuijt42/minishell), all from scratch.
 

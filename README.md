@@ -14,6 +14,4 @@ I'm Casper, a free-time Ruby/Rails enthusiast now looking to take my code to the
 
 ### My 42 curriculum stuff
 
-[![cschuijt's 42 stats](https://badge42.vercel.app/api/v2/cl9h462ml00460gl8kkwan6bt/stats?cursusId=21&coalitionId=59)](https://github.com/JaeSeoKim/badge42)
-
 I have moved my 42 projects to a separate organization. You can find them [here!](https://github.com/cschuijt42)
